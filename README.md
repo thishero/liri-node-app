@@ -22,10 +22,6 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
    * [DotEnv](https://www.npmjs.com/package/dotenv)
 
-### Submission on BCS
-
-* Please submit the link to the Github Repository!
-
 ### Instructions
 
 1. Navigate to the root of your project and run `npm init -y` &mdash; this will initialize a `package.json` file for your project. The `package.json` file is required for installing third party npm packages and saving their version numbers. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible for anyone else to run your code after cloning your project.
@@ -197,11 +193,6 @@ require("dotenv").config();
 
 * Do not overwrite your file each time you run a command.
 
-### Reminder: Submission on BCS
-
-* Please submit the link to the Github Repository!
-
-- - -
 
 ### Minimum Requirements
 
@@ -222,11 +213,3 @@ Add a `README.md` to your repository describing the project. Here are some resou
 ### Add To Your Portfolio
 
 After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
-
-- - -
-
-### One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-**Good Luck!**
